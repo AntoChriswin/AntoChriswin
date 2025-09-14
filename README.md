@@ -2,7 +2,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Banner GitHub]([assts/Black and Gray Minimalist LinkedIn Banner.png](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/refs/heads/main/assts/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png))
+![Banner GitHub](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/refs/heads/main/assts/Black%20and%20Gray%20Minimalist%20LinkedIn%20Banner.png)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
