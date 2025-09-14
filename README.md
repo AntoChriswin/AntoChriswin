@@ -30,9 +30,10 @@ Hi there! I'm an enthusiastic Data Scientist passionate about turning raw data i
 ---
 [![](https://visitcount.itsvg.in/api?id=AntoChriswin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-![Pacman contribution graph](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman contribution graph dark](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
+![Pacman contribution graph](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/main/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman contribution graph dark](https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/main/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
