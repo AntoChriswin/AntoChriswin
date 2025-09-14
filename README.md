@@ -1,3 +1,13 @@
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 # 💫 About Me:
 Hi there! I'm an enthusiastic Data Scientist passionate about turning raw data into meaningful insights and impactful solutions. Alongside my data science journey, I’ve also learned the MERN stack, which helps me bring my machine learning and AI projects to life through interactive and user-friendly web applications.<br><br>🔭 Currently exploring Machine Learning, Deep Learning, and Generative AI (LLMs, AI-powered chatbots, RAG bots, etc.)<br><br>💻 Skilled in Python, R, SQL, and Data Science tools (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, etc.)<br><br>🌐 Proficient in MERN full stack development to deploy and showcase my projects<br><br>📊 Love working on end-to-end projects – from data cleaning & model building to deploying full-scale apps<br><br>🤖 Excited about building with Generative AI → AI-chatbots, RAG systems, and real-world GenAI apps<br><br>🚀 Open to collaborating on AI/ML projects, dashboards, or full-stack applications<br><br>✨ My ultimate goal: Bridge the gap between data science and real-world applications by creating solutions that are not only accurate but also accessible to everyone.
 
