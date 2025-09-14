@@ -38,6 +38,7 @@ Hi there! I'm an enthusiastic Data Scientist passionate about turning raw data i
 
 ###
 
+<img src="https://raw.githubusercontent.com/AntoChriswin/AntoChriswin/output/snake.svg" alt="Snake animation" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
